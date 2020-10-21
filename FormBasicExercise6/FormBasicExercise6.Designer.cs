@@ -371,6 +371,7 @@
             this.Controls.Add(this.limonButton);
             this.Controls.Add(this.naranjaButton);
             this.Controls.Add(this.colaButton);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormBasicExercise6";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.Text = "Máquina de refrescos";
