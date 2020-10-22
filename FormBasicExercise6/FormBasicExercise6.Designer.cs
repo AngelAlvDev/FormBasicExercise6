@@ -77,6 +77,7 @@
             this.naranjaButton.BackColor = System.Drawing.Color.Transparent;
             this.naranjaButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("naranjaButton.BackgroundImage")));
             this.naranjaButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.naranjaButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.naranjaButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.naranjaButton.Location = new System.Drawing.Point(12, 151);
             this.naranjaButton.Name = "naranjaButton";
@@ -90,6 +91,7 @@
             this.limonButton.BackColor = System.Drawing.Color.Transparent;
             this.limonButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("limonButton.BackgroundImage")));
             this.limonButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.limonButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.limonButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.limonButton.Location = new System.Drawing.Point(260, 148);
             this.limonButton.Name = "limonButton";
@@ -103,6 +105,7 @@
             this.aguaButton.BackColor = System.Drawing.Color.Transparent;
             this.aguaButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("aguaButton.BackgroundImage")));
             this.aguaButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.aguaButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.aguaButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.aguaButton.Location = new System.Drawing.Point(260, 273);
             this.aguaButton.Name = "aguaButton";
@@ -116,6 +119,7 @@
             this.limaButton.BackColor = System.Drawing.Color.Transparent;
             this.limaButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("limaButton.BackgroundImage")));
             this.limaButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.limaButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.limaButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.limaButton.Location = new System.Drawing.Point(12, 273);
             this.limaButton.Name = "limaButton";
@@ -129,6 +133,7 @@
             this.ligthButton.BackColor = System.Drawing.Color.Transparent;
             this.ligthButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("ligthButton.BackgroundImage")));
             this.ligthButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ligthButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ligthButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.ligthButton.Location = new System.Drawing.Point(260, 16);
             this.ligthButton.Name = "ligthButton";
@@ -142,6 +147,7 @@
             this.euros2Button.BackColor = System.Drawing.Color.Transparent;
             this.euros2Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("euros2Button.BackgroundImage")));
             this.euros2Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.euros2Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.euros2Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.euros2Button.Location = new System.Drawing.Point(519, 124);
             this.euros2Button.Name = "euros2Button";
@@ -155,6 +161,7 @@
             this.euro1Button.BackColor = System.Drawing.Color.Transparent;
             this.euro1Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("euro1Button.BackgroundImage")));
             this.euro1Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.euro1Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.euro1Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.euro1Button.Location = new System.Drawing.Point(607, 124);
             this.euro1Button.Name = "euro1Button";
@@ -168,6 +175,7 @@
             this.cent50Button.BackColor = System.Drawing.Color.Transparent;
             this.cent50Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cent50Button.BackgroundImage")));
             this.cent50Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.cent50Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cent50Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cent50Button.Location = new System.Drawing.Point(697, 123);
             this.cent50Button.Name = "cent50Button";
@@ -181,6 +189,7 @@
             this.cent20Button.BackColor = System.Drawing.Color.Transparent;
             this.cent20Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cent20Button.BackgroundImage")));
             this.cent20Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.cent20Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cent20Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cent20Button.Location = new System.Drawing.Point(519, 206);
             this.cent20Button.Name = "cent20Button";
@@ -193,6 +202,7 @@
             // 
             this.cent10Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cent10Button.BackgroundImage")));
             this.cent10Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.cent10Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cent10Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cent10Button.Location = new System.Drawing.Point(607, 206);
             this.cent10Button.Name = "cent10Button";
@@ -206,6 +216,7 @@
             this.cent5Button.BackColor = System.Drawing.Color.Transparent;
             this.cent5Button.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cent5Button.BackgroundImage")));
             this.cent5Button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.cent5Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cent5Button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cent5Button.Location = new System.Drawing.Point(697, 206);
             this.cent5Button.Name = "cent5Button";
